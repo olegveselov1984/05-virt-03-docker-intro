@@ -56,3 +56,9 @@ sudo curl http://127.0.0.1:8080
 sudo docker rm 74ecfdd9c7cc -f
 
 Задание 4
+
+![изображение](https://github.com/user-attachments/assets/4bbd5c30-b30e-411b-ac17-4a94c3d330a1)
+Задание 5
+
+
+
